@@ -1,0 +1,12 @@
+.review-area {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 10px;
+  background-color: #2196f3;
+  padding: 10px;
+}
+.review {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "0001",
+    "name": "James",
+    "ratings": 4,
+    "comment": "Livin the bike life"
+  },
+  {
+    "id": "00002",
+    "name": "Robert",
+    "ratings": 4,
+    "comment": "The more I learn about my people, the more I am loving my bike."
+  },
+  {
+    "id": "0003",
+    "name": "John",
+    "ratings": 4,
+    "comment": "The day I learned to ride a bicycle is one of the most important days of my life."
+  },
+  {
+    "id": "0004",
+    "name": "Michael",
+    "ratings": 4,
+    "comment": "The best views are seen from inside the motorcycle helmet"
+  },
+  {
+    "id": "0005",
+    "name": "Horda Hornet",
+    "ratings": 4,
+    "comment": "I just want to go riding, ignore stupid things, and enjoy the freedom."
+  },
+  {
+    "id": "0006",
+    "name": "William",
+    "ratings": 4,
+    "comment": "I don’t love the people driving fast, That’s the reason why I overtake them."
+  },
+  {
+    "id": "0007",
+    "name": "David",
+    "ratings": 4,
+    "comment": "Got myself two new wheels"
+  },
+  {
+    "id": "0008",
+    "name": "Richard",
+    "ratings": 4,
+    "comment": "Everyone crashes. Some get back on. Some don’t. And Some can’t."
+  },
+  {
+    "id": "0009",
+    "name": "Joseph",
+    "ratings": 4,
+    "comment": "Couples who ride together, stay together"
+  },
+  {
+    "id": "0010",
+    "name": "Thomas",
+    "ratings": 4,
+    "comment": "Buy a bike cause money but time doesn’t"
+  }
+  
+]
